@@ -1,3 +1,4 @@
+
 <?xml version="1.0" encoding="UTF-8"?>
 <urunler>
   <urun>
@@ -12,6 +13,7 @@
     <kategori>Erkek Traş Makinesi</kategori>
     <urunadi>VGR V-285T1 Profesyonel Budama Makinesi Kaslı Seri 9000 RPM Tam Metal Gövde</urunadi>
   </urun>
+
   <urun>
     <urunkodu>VGR383</urunkodu>
     <marka>VGR</marka>
@@ -24,6 +26,7 @@
     <kategori>Erkek Traş Makinesi</kategori>
     <urunadi>VGR V-383 Erkekler için Profesyonel Folyo Tıraş Makinesi IPX4</urunadi>
   </urun>
+
   <urun>
     <urunkodu>VGR342</urunkodu>
     <marka>VGR</marka>
@@ -36,6 +39,7 @@
     <kategori>Erkek Traş Makinesi</kategori>
     <urunadi>VGR V-342 Erkekler için Profesyonel Döner Tıraş Makinesi IPX5 Su Geçirmez</urunadi>
   </urun>
+
   <urun>
     <urunkodu>VGR322</urunkodu>
     <marka>VGR</marka>
@@ -48,6 +52,7 @@
     <kategori>Erkek Traş Makinesi</kategori>
     <urunadi>VGR V-322 Erkekler için Döner Tıraş Makinesi, IPX5 Su Geçirmez</urunadi>
   </urun>
+
   <urun>
     <urunkodu>VGR370</urunkodu>
     <marka>VGR</marka>
