@@ -12,7 +12,6 @@
     <kategori>Erkek Traş Makinesi</kategori>
     <urunadi>VGR V-285T1 Profesyonel Budama Makinesi Kaslı Seri 9000 RPM Tam Metal Gövde</urunadi>
   </urun>
-
   <urun>
     <urunkodu>VGR383</urunkodu>
     <marka>VGR</marka>
@@ -25,7 +24,6 @@
     <kategori>Erkek Traş Makinesi</kategori>
     <urunadi>VGR V-383 Erkekler için Profesyonel Folyo Tıraş Makinesi IPX4</urunadi>
   </urun>
-
   <urun>
     <urunkodu>VGR342</urunkodu>
     <marka>VGR</marka>
@@ -38,20 +36,18 @@
     <kategori>Erkek Traş Makinesi</kategori>
     <urunadi>VGR V-342 Erkekler için Profesyonel Döner Tıraş Makinesi IPX5 Su Geçirmez</urunadi>
   </urun>
-
   <urun>
     <urunkodu>VGR322</urunkodu>
     <marka>VGR</marka>
     <stok>100</stok>
     <fiyat>590</fiyat>
     <kdv>20</kdv>
-    <aciklama>Su geçirmez tasarımı ve zahmetsiz tıraş için güçlü performansıyla öne çıkan VGR V-322 Döner Tıraş Makinesi ile her yerde temiz ve rahat bir tıraş deneyimi ...</aciklama>
+    <aciklama>Su geçirmez tasarımı ve zahmetsiz tıraş için güçlü performansıyla öne çıkan VGR V-322 Döner Tıraş Makinesi ile her yerde temiz ve rahat bir tıraş deneyimi yaşayın.</aciklama>
     <resim>https://www.vgrofficial-eg.com/cdn/shop/files/vgr-v-322-rotary-shaver-for-men.jpg?v=1761836629&amp;width=800</resim>
     <resim1>https://www.vgrofficial-eg.com/cdn/shop/files/vgr-v-322-rotary-shaver-for-men_2.jpg?v=1761836629&amp;width=800</resim1>
     <kategori>Erkek Traş Makinesi</kategori>
     <urunadi>VGR V-322 Erkekler için Döner Tıraş Makinesi, IPX5 Su Geçirmez</urunadi>
   </urun>
-
   <urun>
     <urunkodu>VGR370</urunkodu>
     <marka>VGR</marka>
