@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document>
+<urunler>
   <urun>
     <urunkodu>VGR285T1</urunkodu>
     <marka>VGR</marka>
@@ -60,4 +60,4 @@
     <kategori>Erkek Traş Makinesi</kategori>
     <urunadi>VGR V-370 Erkekler İçin Folyo Tıraş Makinesi IPX5 Su Geçirmez</urunadi>
   </urun>
-</document>
+</urunler>
